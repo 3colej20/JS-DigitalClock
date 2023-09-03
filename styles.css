@@ -1,0 +1,44 @@
+
+#DigiClock {
+    stroke: black;
+    stroke-linecap: round;
+    fill: #ffffff;
+    stroke-width: 12;
+}
+
+#DigiClock .border{
+    stroke: black;
+    stroke-linecap: round;
+    fill: #8d8d8d;
+    stroke-width: 2;
+}
+
+#DigiClock .Number_1 {
+    stroke: gray;
+}
+
+#DigiClock .Number_2 {
+    transform: translate(100px);
+    stroke: gray;
+}
+
+#DigiClock .Number_3 {
+    transform: translate(250px);
+    stroke: #000000;
+}
+
+#DigiClock .Number_4 {
+    transform: translate(350px);
+    stroke: gray;
+}
+
+#DigiClock .Number_5 {
+    transform: translate(500px);
+    stroke: gray;
+}
+
+#DigiClock .Number_6 {
+    transform: translate(600px);
+    stroke: gray;
+}
+
